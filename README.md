@@ -20,7 +20,7 @@ import org.jnativehook.*;
 import org.jnativehook.dispatcher.*;
 import org.jnativehook.mouse.*;
 
-import p5nativehook.p5NativemouseGet;
+import p5nativehook.p5NativeMouseGet;
 
 void setup(){
   size(500,500);
